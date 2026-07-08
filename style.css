@@ -7,7 +7,7 @@ header {
 }
 
 main {
-    background-color: #183C63;
+    background-color: hsl(49, 100%, 86%);
     color: #FFFFFF;
     max-width: 800px;
     margin: 0 auto;
